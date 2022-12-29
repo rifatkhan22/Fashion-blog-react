@@ -1,3 +1,12 @@
+[Netlify Link] (fashionblogdynamic.netlify.app)
+[Github Pages] (https://rifatkhan22.github.io/Fashion-blog-static/)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
